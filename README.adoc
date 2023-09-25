@@ -1,1 +1,1 @@
-= `@hacksjs/node`
+= image:https://raw.githubusercontent.com/hacksjs/logos/main/dist/hacksjs-logotype--450x150.svg?sanitize=true[title="@hacksjs/node"]
